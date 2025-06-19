@@ -25,3 +25,4 @@ El método que da entrada a los componentes del grafo: vértices y arcos, se dej
 al lector.
 
 Grafo:
+![Image Alt](https://github.com/AugustoPaz13/TP7-Grafos/blob/b05bdc7dd6a6ce94f2a5249e32a21feed1f4426a/Grafo%2015.9.jpg)
